@@ -1,0 +1,139 @@
+<!-- wp:kadence/rowlayout {"uniqueID":"689_9c558a-33","columns":1,"colLayout":"equal","maxWidth":1300,"bgColor":"palette8","inheritMaxWidth":true,"bgColorClass":"theme-palette8","kbVersion":2} -->
+<!-- wp:kadence/column {"background":"palette9","borderWidth":["","","",""],"borderRadius":[15,15,15,15],"uniqueID":"689_2ae359-7a","padding":["sm","sm","sm","0"],"borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_2ae359-7a"><div class="kt-inside-inner-col"><!-- wp:kadence/rowlayout {"uniqueID":"689_19a510-05","collapseGutter":"none","rowGutterType":"rem","customRowGutter":[0,"",""],"columnGutter":"skinny","gutterType":"rem","customGutter":[16,"",""],"colLayout":"equal","maxWidth":1300,"firstColumnWidth":25,"secondColumnWidth":75,"marginUnit":"rem","paddingUnit":"rem","inheritMaxWidth":true,"padding":["0","0","0","0"],"margin":["0","","0",""],"kbVersion":2,"metadata":{"name":"MAIN ROW"}} -->
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_eeeb88-19","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}],"metadata":{"name":"CARD"}} -->
+<div class="wp-block-kadence-column kadence-column689_eeeb88-19"><div class="kt-inside-inner-col"><!-- wp:kadence/image {"id":690,"sizeSlug":"large","linkDestination":"none","uniqueID":"689_4a2bce-54"} -->
+<figure class="wp-block-kadence-image kb-image689_4a2bce-54 size-large"><img src="https://arileskinen.com/wp-content/uploads/2023/08/mc-world-elite-card_1280x720-1024x576.png" alt="" class="kb-img wp-image-690"/></figure>
+<!-- /wp:kadence/image --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"689_724935-53","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}],"metadata":{"name":"INFO"}} -->
+<div class="wp-block-kadence-column kadence-column689_724935-53"><div class="kt-inside-inner-col"><!-- wp:kadence/rowlayout {"uniqueID":"689_2b520e-6f","colLayout":"equal","firstColumnWidth":80,"secondColumnWidth":20,"padding":["0","0","0","0"],"kbVersion":2} -->
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_cc1517-2d","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_cc1517-2d kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_468099-c6","sizeType":"rem","margin":["0","0","0","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"fontSize":[1.6,"",""]} -->
+<h2 class="kt-adv-heading689_468099-c6 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_468099-c6">Standard Chartered Super Value Titanium</h2>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_6e1e3f-7e","margin":["0","0","0","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_6e1e3f-7e wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_6e1e3f-7e">STARS (4.3)</p>
+<!-- /wp:kadence/advancedheading --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"689_495dff-08","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_495dff-08"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedbtn {"hAlign":"right","uniqueID":"689_493231-6e","margin":[{"desk":["0","0","0","0"],"tablet":["","","",""],"mobile":["","","",""]}],"marginUnit":"rem","padding":["0","0","0","0"],"paddingUnit":"rem"} -->
+<div class="wp-block-kadence-advancedbtn kb-buttons-wrap kb-btns689_493231-6e"><!-- wp:kadence/singlebtn {"uniqueID":"689_f64e87-7a","text":"Full Details"} /--></div>
+<!-- /wp:kadence/advancedbtn --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->
+
+<!-- wp:kadence/rowlayout {"uniqueID":"689_66a4cd-96","collapseGutter":"none","customRowGutter":[0,"",""],"columnGutter":"none","customGutter":[0,"",""],"colLayout":"equal","firstColumnWidth":40,"secondColumnWidth":60,"padding":["0","0","0","0"],"margin":["sm","","",""],"kbVersion":2} -->
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_b8ca30-93","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_b8ca30-93 kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_828921-21","color":"#008d3a","sizeType":"rem","margin":["0","0","0","0"],"marginType":"rem","paddingType":"rem","padding":[0.3,1,0.3,1],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"","htmlTag":"p","background":"#b8ffd6","backgroundColorClass":"","fontSize":[0.9,"",""],"borderRadius":[10,10,10,10],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_828921-21 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_828921-21"><strong>Regular</strong></p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_5c7c97-a3","color":"","sizeType":"rem","margin":["0","0","0","0"],"marginType":"rem","paddingType":"rem","padding":[0.3,1,0.3,1],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"","htmlTag":"p","background":"#b8d9ff","backgroundColorClass":"","fontSize":[0.9,"",""],"borderRadius":[10,10,10,10],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_5c7c97-a3 wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_5c7c97-a3"><strong>Best for: Cashback</strong></p>
+<!-- /wp:kadence/advancedheading --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"689_6bf0e3-ac","direction":["horizontal","",""],"justifyContent":["flex-end","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_6bf0e3-ac kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_15c282-db","sizeType":"rem","margin":["0","0","0","0"],"padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","fontSize":[1,"",""],"icon":"ic_x","iconColor":"rgba(28,30,38,0.4)"} -->
+<p class="kt-adv-heading689_15c282-db wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_15c282-db">Welcome Bonus</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_3f22b3-bc","sizeType":"rem","margin":["0","0","0","0"],"padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","fontSize":[1,"",""],"icon":"ic_x","iconColor":"rgba(28,30,38,0.4)","kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_3f22b3-bc wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_3f22b3-bc">Travel</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_0d2529-ce","sizeType":"rem","margin":["0","0","0","0"],"padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","fontSize":[1,"",""],"icon":"fas_check-circle","iconColor":"#00cc40","kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_0d2529-ce wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_0d2529-ce">Fuel</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_602ce3-6e","sizeType":"rem","margin":["0","0","0","0"],"padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","fontSize":[1,"",""],"icon":"fas_check-circle","iconColor":"#00cc40","kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_602ce3-6e wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_602ce3-6e">Rewards</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/advancedheading {"uniqueID":"689_a9d2cb-4c","sizeType":"rem","margin":["0","0","0","0"],"padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"htmlTag":"p","fontSize":[1,"",""],"icon":"ic_x","iconColor":"rgba(28,30,38,0.4)","kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_a9d2cb-4c wp-block-kadence-advancedheading" data-kb-block="kb-adv-heading689_a9d2cb-4c">Shopping</p>
+<!-- /wp:kadence/advancedheading --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->
+
+<!-- wp:kadence/rowlayout {"uniqueID":"689_d7ee2c-fa","columns":4,"colLayout":"equal","padding":["sm","0","0","0"],"kbVersion":2} -->
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_cfce99-8b","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_cfce99-8b"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_c687a0-48","color":"palette6","sizeType":"rem","margin":["0","0","xxs","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette6","htmlTag":"p","fontSize":[1,"",""],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_c687a0-48 wp-block-kadence-advancedheading has-theme-palette-6-color has-text-color" data-kb-block="kb-adv-heading689_c687a0-48">Reward Point Value</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_5364ef-17","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_5364ef-17 kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:paragraph -->
+<p><strong>NA</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/icon {"uniqueID":"689_da00b3-4f","textAlignment":"left"} -->
+<div class="wp-block-kadence-icon kt-svg-icons kt-svg-icons689_da00b3-4f alignnone"><!-- wp:kadence/single-icon {"uniqueID":"689_01a39f-62","icon":"fas_info-circle","size":24,"color":"rgba(28,30,38,0.4)"} -->
+<div class="wp-block-kadence-single-icon kt-svg-style-default kt-svg-icon-wrap kt-svg-item-689_01a39f-62"><span data-name="fas_info-circle" class="kadence-dynamic-icon"></span></div>
+<!-- /wp:kadence/single-icon --></div>
+<!-- /wp:kadence/icon --></div></div>
+<!-- /wp:kadence/column --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":2,"borderWidth":["","","",""],"uniqueID":"689_6042c7-88","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_6042c7-88"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_f25bb9-ab","color":"palette6","sizeType":"rem","margin":["0","0","xxs","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette6","htmlTag":"p","fontSize":[1,"",""],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_f25bb9-ab wp-block-kadence-advancedheading has-theme-palette-6-color has-text-color" data-kb-block="kb-adv-heading689_f25bb9-ab">Joining Fee</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_dbb8a0-05","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_dbb8a0-05 kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:paragraph -->
+<p><strong><strong>€750</strong></strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/icon {"uniqueID":"689_d0b620-57","textAlignment":"left"} -->
+<div class="wp-block-kadence-icon kt-svg-icons kt-svg-icons689_d0b620-57 alignnone"><!-- wp:kadence/single-icon {"uniqueID":"689_7bf223-52","icon":"fas_info-circle","size":24,"color":"rgba(28,30,38,0.4)"} -->
+<div class="wp-block-kadence-single-icon kt-svg-style-default kt-svg-icon-wrap kt-svg-item-689_7bf223-52"><span data-name="fas_info-circle" class="kadence-dynamic-icon"></span></div>
+<!-- /wp:kadence/single-icon --></div>
+<!-- /wp:kadence/icon --></div></div>
+<!-- /wp:kadence/column --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":3,"borderWidth":["","","",""],"uniqueID":"689_cd6b01-07","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_cd6b01-07"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_10f987-0d","color":"palette6","sizeType":"rem","margin":["0","0","xxs","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette6","htmlTag":"p","fontSize":[1,"",""],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_10f987-0d wp-block-kadence-advancedheading has-theme-palette-6-color has-text-color" data-kb-block="kb-adv-heading689_10f987-0d">Annual Free</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_5413d9-de","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_5413d9-de kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:paragraph -->
+<p><strong>€750</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/icon {"uniqueID":"689_e20bff-40","textAlignment":"left"} -->
+<div class="wp-block-kadence-icon kt-svg-icons kt-svg-icons689_e20bff-40 alignnone"><!-- wp:kadence/single-icon {"uniqueID":"689_1084a8-4e","icon":"fas_info-circle","size":24,"color":"rgba(28,30,38,0.4)"} -->
+<div class="wp-block-kadence-single-icon kt-svg-style-default kt-svg-icon-wrap kt-svg-item-689_1084a8-4e"><span data-name="fas_info-circle" class="kadence-dynamic-icon"></span></div>
+<!-- /wp:kadence/single-icon --></div>
+<!-- /wp:kadence/icon --></div></div>
+<!-- /wp:kadence/column --></div></div>
+<!-- /wp:kadence/column -->
+
+<!-- wp:kadence/column {"id":4,"borderWidth":["","","",""],"uniqueID":"689_732bbc-c7","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_732bbc-c7"><div class="kt-inside-inner-col"><!-- wp:kadence/advancedheading {"uniqueID":"689_d73773-7d","color":"palette6","sizeType":"rem","margin":["0","0","xxs","0"],"marginType":"rem","paddingType":"rem","padding":["0","0","0","0"],"markBorder":"","markBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"tabletMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"mobileMarkBorderStyles":[{"top":[null,"",""],"right":[null,"",""],"bottom":[null,"",""],"left":[null,"",""],"unit":"px"}],"colorClass":"theme-palette6","htmlTag":"p","fontSize":[1,"",""],"kadenceAOSOptions":[{"duration":"","offset":"","easing":"","once":"","delay":"","delayOffset":""}]} -->
+<p class="kt-adv-heading689_d73773-7d wp-block-kadence-advancedheading has-theme-palette-6-color has-text-color" data-kb-block="kb-adv-heading689_d73773-7d">Annual Percentage Rate</p>
+<!-- /wp:kadence/advancedheading -->
+
+<!-- wp:kadence/column {"borderWidth":["","","",""],"uniqueID":"689_1d9b21-68","direction":["horizontal","",""],"gutter":[1,"",""],"gutterUnit":"rem","borderStyle":[{"top":["","",""],"right":["","",""],"bottom":["","",""],"left":["","",""],"unit":"px"}]} -->
+<div class="wp-block-kadence-column kadence-column689_1d9b21-68 kb-section-dir-horizontal"><div class="kt-inside-inner-col"><!-- wp:paragraph -->
+<p><strong>45%</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:kadence/icon {"uniqueID":"689_5bb036-9b","textAlignment":"left"} -->
+<div class="wp-block-kadence-icon kt-svg-icons kt-svg-icons689_5bb036-9b alignnone"><!-- wp:kadence/single-icon {"uniqueID":"689_119db4-80","icon":"fas_info-circle","size":24,"color":"rgba(28,30,38,0.4)"} -->
+<div class="wp-block-kadence-single-icon kt-svg-style-default kt-svg-icon-wrap kt-svg-item-689_119db4-80"><span data-name="fas_info-circle" class="kadence-dynamic-icon"></span></div>
+<!-- /wp:kadence/single-icon --></div>
+<!-- /wp:kadence/icon --></div></div>
+<!-- /wp:kadence/column --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout --></div></div>
+<!-- /wp:kadence/column -->
+<!-- /wp:kadence/rowlayout -->
